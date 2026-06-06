@@ -2,13 +2,12 @@
 
 ## Sobre mim
 
-Estudante de Tecnologia da Informação com foco em:
+Estudante de Tecnologia da Informação com foco:
 
 - Suporte Técnico
 - Redes
 - Cibersegurança
-- Desenvolvimento Web
-- Inglês para TI
+- Desenvolvimento
 
 ## Projetos
 - Second Brain
